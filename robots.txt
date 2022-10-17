@@ -1,0 +1,3 @@
+User-agent: * 
+Allow: /
+Sitemap: http://res.koding.com/sitemap.xml
